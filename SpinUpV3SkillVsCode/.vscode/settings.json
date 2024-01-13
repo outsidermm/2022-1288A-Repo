@@ -1,0 +1,19 @@
+{
+	"pros.showInstallOnStartup": false,
+	"files.associations": {
+		"algorithm": "cpp",
+		"cmath": "cpp",
+		"deque": "cpp",
+		"list": "cpp",
+		"map": "cpp",
+		"queue": "cpp",
+		"set": "cpp",
+		"stack": "cpp",
+		"vector": "cpp",
+		"xtree": "cpp",
+		"type_traits": "cpp",
+		"complex": "cpp",
+		"cstdlib": "cpp"
+	},
+	"C_Cpp.errorSquiggles": "Disabled"
+}

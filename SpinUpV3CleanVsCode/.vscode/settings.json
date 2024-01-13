@@ -1,0 +1,8 @@
+{
+	"pros.showInstallOnStartup": false,
+	"files.associations": {
+		"algorithm": "cpp",
+		"cmath": "cpp"
+	},
+	"C_Cpp.errorSquiggles": "Disabled"
+}

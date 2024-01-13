@@ -1,0 +1,11 @@
+{
+	"pros.showInstallOnStartup": false,
+	"files.associations": {
+		"algorithm": "cpp",
+		"cmath": "cpp",
+		"type_traits": "cpp",
+		"regex": "cpp",
+		"system_error": "cpp"
+	},
+	"C_Cpp.errorSquiggles": "Disabled"
+}
